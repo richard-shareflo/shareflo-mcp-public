@@ -1,5 +1,7 @@
 # Shareflo MCP Server
 
+[![smithery badge](https://smithery.ai/badge/richard-yjtc/shareflo)](https://smithery.ai/servers/richard-yjtc/shareflo)
+
 An OAuth-protected [MCP](https://modelcontextprotocol.io) server that exposes Shareflo's UK cap table data and actions to AI clients such as Claude Desktop and Claude.ai.
 
 Shareflo is a UK cap table management platform for early-stage startups, covering equity instruments, stakeholder records, share/option events, vesting schedules, and Companies House compliance. Free for up to 20 stakeholders. Learn more at [shareflo.co.uk](https://www.shareflo.co.uk).
