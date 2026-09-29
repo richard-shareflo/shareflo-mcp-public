@@ -4,7 +4,11 @@
   "title": "Shareflo",
   "description": "Read and update your UK cap table: instruments, stakeholders, holdings and account representatives.",
   "websiteUrl": "https://www.shareflo.co.uk",
-  "version": "1.0.0",
+  "repository": {
+    "url": "https://github.com/richard-shareflo/shareflo-mcp-public",
+    "source": "github"
+  },
+  "version": "1.0.1",
   "remotes": [
     {
       "type": "streamable-http",
